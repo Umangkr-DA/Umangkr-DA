@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi, I'm Umang Kumar 👋
+
+🎓 Bioengineering Student at VIT
+
+
+🚀 About Me
+
+💡 Interested in Data Analysis and AI in Healthcare
+📈 Turning data into meaningful insights
+📚 Currently learning Python, SQL, and Power BI
+
+🛠 Skills
+
+Languages: Python, SQL
+Tools: Excel, Power BI
+Libraries: Pandas, Matplotlib
+
+📌 Projects
 
 <!--
 **Umangkr-DA/Umangkr-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
